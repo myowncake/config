@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json.schemastore.org/eslintrc",
+  "extends": "./.eslintrc.general.json",
+  "env": {
+    "es6": true,
+    "node": true
+  }
+}
