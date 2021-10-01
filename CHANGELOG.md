@@ -7,6 +7,12 @@ Based on [Keep a Changelog] and [Semantic Versioning Caret].
 
 * Nothing yet.
 
+## 0.2.1
+
+### Fixed
+
+* Removed the `prettier/@typescript-eslint` eslint config. See https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md#version-800-2021-02-21.
+
 ## 0.2.0
 
 ### Changed
