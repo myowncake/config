@@ -1,23 +1,15 @@
-
 # Changelog
 
-Based on [Keep a Changelog] and [Semantic Versioning Caret].
+## Formats
 
-## Edge (HEAD)
+* Changelog: Based on [Keep a Changelog]
+* Versioning: [Semantic Versioning Tilde]
 
-* Nothing yet.
+## Versions
 
-## 0.2.1
-
-### Fixed
-
-* Removed the `prettier/@typescript-eslint` eslint config. See https://github.com/prettier/eslint-config-prettier/blob/main/CHANGELOG.md#version-800-2021-02-21.
-
-## 0.2.0
-
-### Changed
-
-* Removed the prettier `semi` option. So `semi` woule be `true`, its default.
+* [0.3.0](./changelogs/0.3.0.md)
+* [0.2.1](./changelogs/0.2.1.md)
+* [0.2.0](./changelogs/0.2.0.md)
 
 [Keep a Changelog]: http://keepachangelog.com/en/1.0.0/
-[Semantic Versioning Caret]: https://github.com/myowncake/semver-caret
+[Semantic Versioning Tilde]: https://github.com/myowncake/semver-tilde

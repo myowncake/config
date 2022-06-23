@@ -1,6 +1,6 @@
 {
   "name": "@myowncake/config",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "An NPM package providing my own miscellaneous configuration.",
   "repository": "myowncake/config",
   "license": "MIT",
@@ -8,10 +8,10 @@
   "files": [
     "dist"
   ],
-  "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.32.0",
-    "@typescript-eslint/parser": "^4.32.0",
-    "eslint": "^7.32.0",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0",
+    "eslint": "^8.18.0",
     "eslint-config-prettier": "^8.3.0"
   }
 }
